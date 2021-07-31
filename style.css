@@ -1,0 +1,54 @@
+body{
+    background: lightskyblue;
+    font-family: 'MonteCarlo', cursive;
+}
+.header_div{
+    background: mediumturquoise;
+    color: rgb(9, 78, 30);
+}
+.header_div img{width: 100px;}
+.main_div{
+    background-color: rgb(248, 231, 231);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(197, 197, 211);
+}
+.main_div label{
+    background-color: rgb(236, 234, 233);
+    width:310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px  rgb(224, 111, 128);font-size: 30px;
+}
+.main_div button{width: 310px;
+font-size: 30px;
+box-shadow: 5px 5px 18px rgb(247, 243, 6);
+border: 1px solid;
+}
+#camera,#result{width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px rgb(247, 243, 6);
+    border: 1px solid;
+    }
+    .footer_div{
+        margin-bottom: 50px;
+    }
+    .footer_div h4{
+        background: white ;
+        border-radius: 10px;
+        padding: 5px;
+        box-shadow: 5px 5px 18px yellow;
+    }
+    .footer_div img{
+        width: 70px;
+    }
+    .copy_right_footer{
+        position: fixed;
+        color: grey;
+        bottom: 0;
+        width: 100%;
+        background-color: rgb(241, 228, 228);
+        font-size: 25px;
+        line-height: 3;
+        text-align: center;
+    }
